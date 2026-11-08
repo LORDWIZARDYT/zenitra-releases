@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.2",
-    "notes":  "Zenitra ERP v1.0.2: Performance upgrades, secure offline ledger integrity, and refreshed enterprise UI.",
-    "pub_date":  "2026-11-08T10:28:12Z",
+    "version":  "1.0.3",
+    "notes":  "Zenitra ERP v1.0.3: Performance upgrades, zero-churn SQLite caching, high-contrast dashboard, and keyboard navigation enhancements.",
+    "pub_date":  "2026-11-08T12:21:34Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S2lEcWdZdVFMQkJzbTl1R0ZkNjYzNGQ2UlVtbE1XTjRPZFVxUCtEa3NvVjNtV29UVzNudXIxTW52bU5GSG5xQWRGbjl6a3NMeGNTQmxQUkt4RWxXR3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTMzNjkyCWZpbGU6WmVuaXRyYSBFUlBfMS4wLjJfeDY0LXNldHVwLmV4ZQpsNlQ3YWxuR2MyYStWMlJ0UWhwUy92clZhTFgwRHhUVzV3V25EWHVUZDdiU09pU1lETGNXWkxkbWJxem1kTGV1cHdqVHlJS2JzSEZRa01IcERtb0RDUT09Cg==",
-                                             "url":  "https://github.com/LORDWIZARDYT/zenitra-releases/releases/download/v1.0.2/Zenitra.ERP_1.0.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S3JoWW9ZWHFTdng4d1ltZzhiM21oVklOWTZZTzRzZWttZUFSRTc2Yk5lUUp2VXRxdXZnakk5WkpyTk8rUzNGbEpBTFVXNkJVc1BqTE40Z2N1MXMwY2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQwNDkzCWZpbGU6WmVuaXRyYSBFUlBfMS4wLjNfeDY0LXNldHVwLmV4ZQpWa2l4K05EODUyTThldDZ3MHNqUDMveVduYWZVbmNZRHczcWNlcHhvOGdRSVhBbHljY3k4YlB0dnpaZG9meHl2MjBobUNsRVdoUEJNZ0lYaU9uZW1Edz09Cg==",
+                                             "url":  "https://github.com/LORDWIZARDYT/zenitra-releases/releases/download/v1.0.3/Zenitra.ERP_1.0.3_x64-setup.exe"
                                          }
                   }
 }
