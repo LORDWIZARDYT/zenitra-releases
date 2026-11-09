@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "notes":  "Zenitra ERP v1.0.3: Performance upgrades, zero-churn SQLite caching, high-contrast dashboard, and keyboard navigation enhancements.",
-    "pub_date":  "2026-11-08T12:21:34Z",
+    "pub_date":  "2026-11-09T08:35:33Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S3JoWW9ZWHFTdng4d1ltZzhiM21oVklOWTZZTzRzZWttZUFSRTc2Yk5lUUp2VXRxdXZnakk5WkpyTk8rUzNGbEpBTFVXNkJVc1BqTE40Z2N1MXMwY2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQwNDkzCWZpbGU6WmVuaXRyYSBFUlBfMS4wLjNfeDY0LXNldHVwLmV4ZQpWa2l4K05EODUyTThldDZ3MHNqUDMveVduYWZVbmNZRHczcWNlcHhvOGdRSVhBbHljY3k4YlB0dnpaZG9meHl2MjBobUNsRVdoUEJNZ0lYaU9uZW1Edz09Cg==",
-                                             "url":  "https://github.com/LORDWIZARDYT/zenitra-releases/releases/download/v1.0.3/Zenitra.ERP_1.0.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S2t4NE8rUHBjejJNVzQ5K0VRd3l5a2RPd1BUOGFCSTZ3ejJtUDNIYXZkbFFDK20wY25HZXk0MlVDbXVNclVoVzJpa0p2NDFCRy85YkpEUWVSb0tGVFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjEzMzMzCWZpbGU6WmVuaXRyYSBFUlBfMS4wLjRfeDY0LXNldHVwLmV4ZQpITjQ3V0xFb05mSmZObWIvN21qcjhweTY0VWR0WnRQdWRPOHlHd1h5ODN6S2xVMEVqS201YXhNQlZ3Vk5ZcTlUUm1XR0tBT2xkbWdnUUJxRWxnNS9EUT09Cg==",
+                                             "url":  "https://github.com/LORDWIZARDYT/zenitra-releases/releases/download/v1.0.4/Zenitra.ERP_1.0.4_x64-setup.exe"
                                          }
                   }
 }
