@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.4",
-    "notes":  "Zenitra ERP v1.0.3: Performance upgrades, zero-churn SQLite caching, high-contrast dashboard, and keyboard navigation enhancements.",
-    "pub_date":  "2026-11-09T08:35:33Z",
+    "version":  "1.0.5",
+    "notes":  "Zenitra ERP v1.0.5: Standalone zero-unpack backend architecture, SQLCipher PRAGMA key auto-heal, shell icon cache sync, and UI performance optimizations.",
+    "pub_date":  "2026-11-09T17:56:14Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S2t4NE8rUHBjejJNVzQ5K0VRd3l5a2RPd1BUOGFCSTZ3ejJtUDNIYXZkbFFDK20wY25HZXk0MlVDbXVNclVoVzJpa0p2NDFCRy85YkpEUWVSb0tGVFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjEzMzMzCWZpbGU6WmVuaXRyYSBFUlBfMS4wLjRfeDY0LXNldHVwLmV4ZQpITjQ3V0xFb05mSmZObWIvN21qcjhweTY0VWR0WnRQdWRPOHlHd1h5ODN6S2xVMEVqS201YXhNQlZ3Vk5ZcTlUUm1XR0tBT2xkbWdnUUJxRWxnNS9EUT09Cg==",
-                                             "url":  "https://github.com/LORDWIZARDYT/zenitra-releases/releases/download/v1.0.4/Zenitra.ERP_1.0.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S2pkLzB1S2RVbTY4TE1LMlRrSnUwZWZONHNoaWt3dCtHTUdKMGYybmtVZjRuRXlibm50MXpsT25hdm5aaDZWbThsVU5KRFBvMzZKUjFHNlJjaVVUemcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQ2OTczCWZpbGU6WmVuaXRyYSBFUlBfMS4wLjVfeDY0LXNldHVwLmV4ZQpTWTJGZlpyN2EyVEhFRFY5bEpKZjBMcCtZNU9TSnFoRndEMFhsWWp4RUhObUlEcHd5Mmc3VnVlR3ZGTkZGc1FSaUlydk9rVTJtdUdiTjdRNzgvZ2dDZz09Cg==",
+                                             "url":  "https://github.com/LORDWIZARDYT/zenitra-releases/releases/download/v1.0.5/Zenitra.ERP_1.0.5_x64-setup.exe"
                                          }
                   }
 }
