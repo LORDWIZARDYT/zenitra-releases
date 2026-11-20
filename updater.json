@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.6",
-    "notes":  "Zenitra ERP v1.0.6: Statutory compliance update, performance optimizations, and bug fixes.",
-    "pub_date":  "2026-11-20T16:15:21Z",
+    "version":  "1.0.7",
+    "notes":  "Zenitra ERP v1.0.7: Statutory compliance update, performance optimizations, and bug fixes.",
+    "pub_date":  "2026-11-20T17:03:12Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S3FYNlJSUVhNLzl2Vm9oMFIvZVVsQVpSa3JhNGk1SVpKUnNqTjJGTVZCcGFzZG5ZbnVoaXdNZU51SHlxUUdPYmVNTk9IRkNrYzdXUktXSnl2WkR6SkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTkxMzIwCWZpbGU6WmVuaXRyYSBFUlBfMS4wLjZfeDY0LXNldHVwLmV4ZQpCK01xNVh3eEVhR3FnTktXT0NJTjZzYU1icm5WVkxpeHFqTXQzM3ZJd09DODZNbzJiY0tNM2ZBcWMycUk1VUFoeDM1RHU4K0x2a2dQd1p1a3hGYUtEUT09Cg==",
-                                             "url":  "https://github.com/LORDWIZARDYT/zenitra-releases/releases/download/v1.0.6/Zenitra.ERP_1.0.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S25HT05YeHZUY2pQYUg4UkhIcjE4TVlMcXptVDI0NHNZZlhmVGhOTERvb21mbTRHSTZoWFhZUzBtNGcyWDRLT2hDVzBxcHpGWldSYklZUmQ3ZUUrclE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTk0MTkyCWZpbGU6WmVuaXRyYSBFUlBfMS4wLjdfeDY0LXNldHVwLmV4ZQoyZmYrQkh5aEpUUmIvK3FRY0RnUmNneVhxRzNBN0pqQWhLdFY0bVFwaEhrODF0SUVnV1ZkNTFESjNvS21CNTl3UjBaQVQrSWZaSU5MZVNydUtxNWVDQT09Cg==",
+                                             "url":  "https://github.com/LORDWIZARDYT/zenitra-releases/releases/download/v1.0.7/Zenitra.ERP_1.0.7_x64-setup.exe"
                                          }
                   }
 }
