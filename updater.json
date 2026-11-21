@@ -1,10 +1,10 @@
 {
     "version":  "1.4.2",
     "notes":  "Zenitra ERP v1.4.2: Fixed print layout and configurator table overflow bug preventing the Total summary row from being hidden or overlapped by Amount in Words, optimized table spacer row collapse, and balanced print page margins.",
-    "pub_date":  "2026-11-21T18:49:03Z",
+    "pub_date":  "2026-11-21T19:11:04Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S3NhSWNsN3BoWnZsZmx6RFB1Wmt2c3ZiWDdVb1B2Q2MvNElaVHBTVkhkamhsTkpOTVBqU01GZXJ2U0w0Si9NeFdOV0lvK3dDQmIzOWMvWEdMYzFtUVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg2OTQwCWZpbGU6WmVuaXRyYSBFUlBfMS40LjJfeDY0LXNldHVwLmV4ZQp5Rlk1dW9La3hZYXQvUTUrU1lLTnJyUFh6Y29zSXhIYVR6S2JLNWg3Q1FGWHdjM1F5TERVMDI2d1NWK3oyWUZiZ3R1NngvdmhBbUw2QlQ5Z3Foc0RCdz09Cg==",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S2tBSElYdmQ2UkM1UlF0aVlvSFluUDQ0UVBqd1FTUGVZOFMwZEhRanBIZHNuZnJhTUx5Y2xPcTNrYVdqaXJQMmdNQ2dkQ0xnTVdaTmY3VXdpSDlVOGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg4MjY0CWZpbGU6WmVuaXRyYSBFUlBfMS40LjJfeDY0LXNldHVwLmV4ZQpYSjBqYnZhZVRXUnNic3VPYnEvOEN3V3NhUnNnVzNHYjg4b1VTY0xCNTVtdDFsaHgwWXhWMk1aQjRELzErdmpuRy9aclY5MDE3bXJKV1NDVFRZZnpDZz09Cg==",
                                              "url":  "https://github.com/LORDWIZARDYT/zenitra-releases/releases/download/v1.4.2/Zenitra.ERP_1.4.2_x64-setup.exe"
                                          }
                   }
