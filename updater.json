@@ -1,11 +1,11 @@
 {
-    "version":  "1.4.0",
-    "notes":  "Zenitra ERP v1.4.0: Fixed Layout Editor viewport blanking on unzoom, persistent app zoom level across restarts, and print preview stabilization.",
-    "pub_date":  "2026-11-21T15:05:14Z",
+    "version":  "1.4.1",
+    "notes":  "Zenitra ERP v1.4.1: Fixed Layout Editor viewport blanking on unzoom, persistent app zoom level across restarts, and print preview stabilization.",
+    "pub_date":  "2026-11-21T15:29:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S2tGa1p5VkNBdndnZVZSTWN6aWxuOTZtdmZtSlJLR0R5UWtXQk4wZnNmeWpjQ0lScTJkMUlKQmFCa3g3WmZGd0lIK2YwczlGUUswWWVMc21kbVorU1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjczNTE0CWZpbGU6WmVuaXRyYSBFUlBfMS40LjBfeDY0LXNldHVwLmV4ZQpLWWVWRVlkcWRxdnc1OXNQbGF3UlYzcVRDcWc1QXZIQk01WGllOVp0Yk9PREdBbmUxc1VtOFo3cmRWUjZGZEN1a2NPMStIYm5uQTA0ZEVMWlVkV0VEUT09Cg==",
-                                             "url":  "https://github.com/LORDWIZARDYT/zenitra-releases/releases/download/v1.4.0/Zenitra.ERP_1.4.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S3RXVU42Vng3U2Z2ZW01NjJZOHJjMDMyM2xjckJvY084ajZpN29ZajdnYUxTM3hnOUh4aWl2c0k2amhRSTFzQ1ZZc2lCcXREYVBzZjBOdDAyZW5aSUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjc0OTM5CWZpbGU6WmVuaXRyYSBFUlBfMS40LjFfeDY0LXNldHVwLmV4ZQpjeFQ5WUdhMkdpYWJpUDM3bUplWWg4QVVUVGJFQ0wzZUVjeWZHM2lqeWZwWUNlcnFnSUdCcmNEK3pXaEFXNG5zczgwWm4xK2JSL3dleG5aTm1OeFhBdz09Cg==",
+                                             "url":  "https://github.com/LORDWIZARDYT/zenitra-releases/releases/download/v1.4.1/Zenitra.ERP_1.4.1_x64-setup.exe"
                                          }
                   }
 }
