@@ -1,11 +1,11 @@
 {
-    "version":  "1.3.0",
-    "notes":  "Zenitra ERP v1.3.0: Statutory compliance update, performance optimizations, and bug fixes.",
-    "pub_date":  "2026-11-21T14:41:35Z",
+    "version":  "1.4.0",
+    "notes":  "Zenitra ERP v1.4.0: Fixed Layout Editor viewport blanking on unzoom, persistent app zoom level across restarts, and print preview stabilization.",
+    "pub_date":  "2026-11-21T15:05:14Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S2s0T1pMMVltNUJtOWhuTGJGbmlQTmR4cXBjTDNHSzAvaTl5bTdDaWV0bnlsbGpORXJmWXVWUmJnelVaekJGdnFVK09uNnMwMHFIY284Ly9MQkV1OEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjcyMDk1CWZpbGU6WmVuaXRyYSBFUlBfMS4zLjBfeDY0LXNldHVwLmV4ZQpKMEpjMG5HcmtKZ3I4L2M4Z3Zsakd5VmZ4ODRXb3hMU0JVV0piTDNLT281WXNZYnlyR0ZaMXE3Q2tUOGovL1BqWWNwQ3RlL0NyelJEUGtycVpIbFhDZz09Cg==",
-                                             "url":  "https://github.com/LORDWIZARDYT/zenitra-releases/releases/download/v1.3.0/Zenitra.ERP_1.3.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S2tGa1p5VkNBdndnZVZSTWN6aWxuOTZtdmZtSlJLR0R5UWtXQk4wZnNmeWpjQ0lScTJkMUlKQmFCa3g3WmZGd0lIK2YwczlGUUswWWVMc21kbVorU1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjczNTE0CWZpbGU6WmVuaXRyYSBFUlBfMS40LjBfeDY0LXNldHVwLmV4ZQpLWWVWRVlkcWRxdnc1OXNQbGF3UlYzcVRDcWc1QXZIQk01WGllOVp0Yk9PREdBbmUxc1VtOFo3cmRWUjZGZEN1a2NPMStIYm5uQTA0ZEVMWlVkV0VEUT09Cg==",
+                                             "url":  "https://github.com/LORDWIZARDYT/zenitra-releases/releases/download/v1.4.0/Zenitra.ERP_1.4.0_x64-setup.exe"
                                          }
                   }
 }
