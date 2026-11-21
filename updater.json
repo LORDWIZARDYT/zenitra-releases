@@ -1,11 +1,11 @@
 {
-    "version":  "1.4.1",
-    "notes":  "Zenitra ERP v1.4.1: Fixed Layout Editor viewport blanking on unzoom, persistent app zoom level across restarts, and print preview stabilization.",
-    "pub_date":  "2026-11-21T17:21:13Z",
+    "version":  "1.4.2",
+    "notes":  "Zenitra ERP v1.4.2: Fixed print layout and configurator table overflow bug preventing the Total summary row from being hidden or overlapped by Amount in Words, optimized table spacer row collapse, and balanced print page margins.",
+    "pub_date":  "2026-11-21T18:36:56Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S2xuY1I1b0VPMXF1NzJhbDhmMGdBdDhreWpmendzVldYeU0xYmExWkVKc1VaaHRpZXFoWUNIaHVuWXZoVmh1Q3JoUW5MbkMreXhRRVV6cmJsSS9NM0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgxNjczCWZpbGU6WmVuaXRyYSBFUlBfMS40LjFfeDY0LXNldHVwLmV4ZQpGMFl4VDZlU21STzVOWUQyQU90MHRIUkNmNUtwMng1WEFaK3pralRIT1RkTG0rK3pNSVdPWW1uVkFnampuaDBZUUk4TjdyS2hyU0VNWnhaWlZYTzNBUT09Cg==",
-                                             "url":  "https://github.com/LORDWIZARDYT/zenitra-releases/releases/download/v1.4.1/Zenitra.ERP_1.4.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUl3WFU4Ynh4S244alBsbk82QmduNnBIWHNLbkl2T1dxV0F5MmI0VnVlSzJjSmZiaFVBVHBwQkc3L1B0VVZmaWhCZVFobkt6V25CMDhCOUtVdHdlOXB0SnBZZG0wNkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg2MDM3CWZpbGU6WmVuaXRyYSBFUlBfMS40LjJfeDY0LXNldHVwLmV4ZQp0aGxKbXBIMUFMMks4eWkxYW9nNU1pNHF5V1pLbzF3dnhtZjJLc0NrTGo3Yk1OWjZvamhBbWZkOE14V2ZuL2FCOTc5bVVjMUUwVUtGaDdkNUlsVkVEdz09Cg==",
+                                             "url":  "https://github.com/LORDWIZARDYT/zenitra-releases/releases/download/v1.4.2/Zenitra.ERP_1.4.2_x64-setup.exe"
                                          }
                   }
 }
